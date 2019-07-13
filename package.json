@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tamakiii-sandbox/hello-postcss/issues"
   },
-  "homepage": "https://github.com/tamakiii-sandbox/hello-postcss#readme"
+  "homepage": "https://github.com/tamakiii-sandbox/hello-postcss#readme",
+  "dependencies": {
+    "postcss": "^7.0.17"
+  }
 }
