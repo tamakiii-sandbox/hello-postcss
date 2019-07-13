@@ -19,6 +19,7 @@
   "homepage": "https://github.com/tamakiii-sandbox/hello-postcss#readme",
   "dependencies": {
     "autoprefixer": "^9.6.1",
+    "nodemon": "^1.19.1",
     "normalize.css": "^8.0.1",
     "postcss": "^7.0.17",
     "postcss-cli": "^6.1.3",
