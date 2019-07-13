@@ -1,0 +1,11 @@
+@import "normalize.css";
+
+@custom-media --med (width <= 50rem);
+
+@media (--med) {
+  a {
+    &:hover {
+      color: color-mod(black alpha(54%));
+    }
+  }
+}
